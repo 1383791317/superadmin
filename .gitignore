@@ -2,5 +2,6 @@
 /.vscode
 /runtime
 /vendor
+/log
 *.log
 .env
